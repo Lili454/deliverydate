@@ -25,11 +25,11 @@
 "productDetails": [
 {
 "Brand": "Aerie",
-"Item": "Skirt with stripes",
+"Item": "Skirt with flowers",
 "quantity": 1,
 "Size": "EU M",
-"Color": "Purple",
-"url": "https://img.freepik.com/free-photo/beautiful-woman-purple-sweater-skirt_1303-17492.jpg?size=338&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+"Color": "Multi",
+"url": "https://img.freepik.com/free-photo/beautiful-cute-brunette-model-casual-summer-clothes-with-no-makeup_158538-10648.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
 ]
 }
@@ -88,6 +88,19 @@
 "Size": "EU M",
 "Color": "Black",
 "url": "https://img.freepik.com/free-photo/portrait-beautiful-attractive-woman-posing-isolated-yellow-background-wearing-black-dotted-dress-black-hat-stylish-spring-summer-fashion-style-accessories-smiling-happy-mood-having-fun_285396-10597.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+}
+  ]
+},
+  {
+"itemNo": 2,
+"productDetails": [
+{
+"Brand": "Aerie",
+"Item": "Black handbag",
+"quantity": 1,
+"Size": "One size",
+"Color": "Black",
+"url": "https://img.freepik.com/free-photo/close-up-accessories-details-stylish-woman-walking-city-warm-fur-coat-winter-season-cold-weather-holding-leather-handbag-legs-boots-footwear-street-fashion-trend_285396-4720.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
 ]
 }
