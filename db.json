@@ -15,6 +15,7 @@
 "Item": "Shirt",
 "quantity": 1,
 "Size": "EU 38",
+"estimatedDelDate": "29-11-2022",
 "Color": "Light blue",
 "url": "https://img.freepik.com/free-photo/travel-agent-hearing-customer-desires-portrait-good-looking-european-businesswoman-blue-blouse-glasses-holding-hands-pockets-smiling-being-friendly-polite-gray-wall_176420-25025.jpg?w=1380&t=st=1668419831~exp=1668420431~hmac=0ce7d614619b39903bab5ca6205fa09c396082cbb4893c88712416d10768c5fb"
 }
@@ -28,6 +29,7 @@
 "Item": "Skirt with flowers",
 "quantity": 1,
 "Size": "EU M",
+"estimatedDelDate": "29-11-2022",
 "Color": "Multi",
 "url": "https://img.freepik.com/free-photo/beautiful-cute-brunette-model-casual-summer-clothes-with-no-makeup_158538-10648.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
@@ -51,6 +53,7 @@
 "Item": "Jeans",
 "quantity": 1,
 "Size": "EU XL",
+"estimatedDelDate": "05-12-2022",
 "Color": "Blue",
 "url": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?size=338&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
@@ -64,6 +67,7 @@
 "Item": "Hoodie",
 "quantity": 1,
 "Size": "EU XL",
+"estimatedDelDate": "05-12-2022",
 "Color": "Lime green",
 "url": "https://img.freepik.com/free-photo/portrait-handsome-confident-model-sexy-stylish-man-dressed-yellow-hoodie-with-no-logo-clothes-branding-mockup-design-template-casual-sportswear-fashion-male-isolated-studio_158538-23464.jpg?size=338&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
@@ -86,6 +90,7 @@
 "Item": "Black dress with dots",
 "quantity": 1,
 "Size": "EU M",
+"estimatedDelDate": "20-11-2022",
 "Color": "Black",
 "url": "https://img.freepik.com/free-photo/portrait-beautiful-attractive-woman-posing-isolated-yellow-background-wearing-black-dotted-dress-black-hat-stylish-spring-summer-fashion-style-accessories-smiling-happy-mood-having-fun_285396-10597.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
@@ -99,6 +104,7 @@
 "Item": "Black handbag",
 "quantity": 1,
 "Size": "One size",
+"estimatedDelDate": "20-11-2022",
 "Color": "Black",
 "url": "https://img.freepik.com/free-photo/close-up-accessories-details-stylish-woman-walking-city-warm-fur-coat-winter-season-cold-weather-holding-leather-handbag-legs-boots-footwear-street-fashion-trend_285396-4720.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
 }
